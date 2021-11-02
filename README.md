@@ -1,10 +1,9 @@
 ### Hi there �
 
-Here are some ideas to get you started:
 
 - 🔭
 I currently work as an administrative assistant at Hospital Santo Antônio.
-- 🌱 I’m currently learning , NodeJS, CSS, JavaScript, HTML.
+- 🌱 I’m currently  no  primeiro semestre de Analise e Desenvolvimento de Sistemas e participando de formaçoes online aprendendo NodeJs, html, CSS, JavaScript
 - 📫 How to reach me: [link] (algacir.ds@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
